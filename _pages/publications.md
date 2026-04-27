@@ -28,18 +28,18 @@ See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl
 Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, S'ebastien Gambs, Mathias L'ecuyer
 <sup>\* Equal contribution</sup>
 *Neural Information Processing Systems (NeurIPS) 2024*
-[Paper](https://arxiv.org/abs/2402.09477) / [Code](https://github.com/ubc-systopia/panoramia-privacy-measurement) / [Slides](/files/fixme.pdf)
+[Paper](https://arxiv.org/abs/2402.09477) / [Code](https://github.com/ubc-systopia/panoramia-privacy-measurement) / [Slides](/files/panoramia_nips_video.pdf)
 
 <br>
 
 **DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**
 **Qiaoyue Tang**, Frederick Shpilevskiy, Mathias L'ecuyer
-*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red"> (Oral) 2.3% </span>
+*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red"> (Oral 2.3%) </span>
 <span style="font-size:0.85em; color:gray">Also presented at Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models @ ICLR 2023</span>
-[Paper](https://arxiv.org/abs/2312.14334) / [Code](https://github.com/ubc-systopia/DP-AdamBC) / [Slides](/files/fixme.pdf)
+[Paper](https://arxiv.org/abs/2312.14334) / [Code](https://github.com/ubc-systopia/DP-AdamBC) / [Slides](/files/DP_AdamBC_AAAI_24_slides.pdf)
 
 <br>
 
 **DP-SGD-LF: Improving Utility under Differentially Private Learning via Layer Freezing**
 **Qiaoyue Tang**, Mathias L'ecuyer
-[Paper](fixme)
+[Paper](https://openreview.net/attachment?id=coLtCLTHFbW&name=pdf)
