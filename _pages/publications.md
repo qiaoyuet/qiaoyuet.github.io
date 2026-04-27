@@ -41,7 +41,7 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 
 **DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**  
 **Qiaoyue Tang**, Frederick Shpilevskiy, Mathias L'ecuyer  
-*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red">**Oral · 2.3% acceptance rate**</span>  
+*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red">**(Oral, 2.3% acceptance rate)**</span>  
 <span style="font-size:0.85em; color:gray">Also presented at Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models @ ICLR 2023</span>  
 [Paper](https://arxiv.org/abs/2312.14334) / [Code](https://github.com/ubc-systopia/DP-AdamBC) / [Slides](/files/DP_AdamBC_AAAI_24_slides.pdf)
 
