@@ -7,8 +7,8 @@ author_profile: true
 
 <style>
 .page__content p {
-  font-size: 0.85em;
-  line-height: 1.5;
+  font-size: 0.70em;
+  line-height: 1.0;
 }
 </style>
 
