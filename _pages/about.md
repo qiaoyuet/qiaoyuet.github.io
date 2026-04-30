@@ -12,16 +12,16 @@ I am a Computer Science PhD student at the University of British Columbia (UBC) 
 My research focuses on data privacy, including designing efficient privacy-preserving algorithms with provable guarantees, auditing privacy leakage in trained machine learning models, and adapting existing tools to domain-specific problems. I have also worked on broader responsible AI topics, such as mitigating social bias and developing fairer models.
 
 
-### Selected Projects
+# Selected Projects
 
 See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl=en) profile for a full list.
 
 ---
 
-**Private and Stable Test-time Adaptation with Differential Privacy**
-Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer 
-<sup>\* Alphabetical order</sup> 
-*International Conference on Machine Learning (ICML) 2026*
+**Private and Stable Test-time Adaptation with Differential Privacy**  
+Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer  
+<sup>\* alphabetical order</sup>  
+*International Conference on Machine Learning (ICML) 2026*  
 [Paper]
 - Improve test-time adaptation (TTA) performance using differentially private training techniques, enabling trained models to adapt to new and distributionally shifted test data with reduced error while preserving privacy guarantees.
 - Evaluate on pretrained ViT and ConvNeXT models using ImageNet-C and ImageNet-R corruption benchmarks.
@@ -48,7 +48,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer
 
 **PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining**  
 Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, Sébastien Gambs, Mathias Lécuyer  
-<sup>\* Equal contribution</sup>  
+<sup>\* equal contribution</sup>  
 *Neural Information Processing Systems (NeurIPS) 2024*  
 [Paper](https://arxiv.org/abs/2402.09477) / [Code](https://github.com/ubc-systopia/panoramia-privacy-measurement) / [Slides](/files/panoramia_nips_video.pdf)
 - Develop a retraining-free privacy auditing framework that uses synthetic non-member data to evaluate membership inference attacks on target models.
