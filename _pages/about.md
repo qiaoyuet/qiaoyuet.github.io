@@ -18,9 +18,8 @@ See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl
 
 ---
 
-**Private and Stable Test-time Adaptation with Differential Privacy**  
-Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer  
-<sup>\* alphabetical order</sup>  
+<span style="color:#1a73e8">**Private and Stable Test-time Adaptation with Differential Privacy**</span>
+Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alphabetical order)</sup>  
 *International Conference on Machine Learning (ICML) 2026*  
 [Paper]
 - Improve test-time adaptation (TTA) performance using differentially private training techniques, enabling trained models to adapt to new and distributionally shifted test data with reduced error while preserving privacy guarantees.
@@ -28,7 +27,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer
 
 <div style="margin-bottom: 0.8em;"></div>
 
-**FairNVT: Improving Fairness via Noise Injection in Vision Transformers**  
+<span style="color:#1a73e8">**FairNVT: Improving Fairness via Noise Injection in Vision Transformers**</span> 
 **Qiaoyue Tang**, Sepidehsadat Hosseini, Mengyao Zhai, Thibaut Durand, Greg Mori  
 *Full version in submission*  
 *Algorithmic Fairness Across Alignment Procedures and Agentic Systems (AFAA) Workshop @ ICLR 2026*  
@@ -38,7 +37,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer
 
 <div style="margin-bottom: 0.8em;"></div>
 
-**On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**  
+<span style="color:#1a73e8">**On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**</span>  
 **Qiaoyue Tang**, Alain Zhiyanov, and Mathias Lécuyer  
 *High-dimensional Learning Dynamics Workshop @ ICML 2025*  
 [Paper](https://arxiv.org/abs/2507.10536)
@@ -46,9 +45,8 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer
 
 <div style="margin-bottom: 0.8em;"></div>
 
-**PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining**  
-Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, Sébastien Gambs, Mathias Lécuyer  
-<sup>\* equal contribution</sup>  
+<span style="color:#1a73e8">**PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining**</span>   
+Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, Sébastien Gambs, Mathias Lécuyer <sup>(\* equal contribution)</sup>  
 *Neural Information Processing Systems (NeurIPS) 2024*  
 [Paper](https://arxiv.org/abs/2402.09477) / [Code](https://github.com/ubc-systopia/panoramia-privacy-measurement) / [Slides](/files/panoramia_nips_video.pdf)
 - Develop a retraining-free privacy auditing framework that uses synthetic non-member data to evaluate membership inference attacks on target models.
@@ -56,7 +54,7 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 
 <div style="margin-bottom: 0.8em;"></div>
 
-**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**  
+<span style="color:#1a73e8">**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**</span> 
 **Qiaoyue Tang**, Frederick Shpilevskiy, Mathias Lécuyer  
 *AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red">**(Oral, 2.3%)**</span>  
 <span style="font-size:0.85em; color:gray">Also presented at Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models @ ICLR 2023</span>  
@@ -66,7 +64,7 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 
 <div style="margin-bottom: 0.8em;"></div>
 
-**DP-SGD-LF: Improving Utility under Differentially Private Learning via Layer Freezing**  
+<span style="color:#1a73e8">**DP-SGD-LF: Improving Utility under Differentially Private Learning via Layer Freezing**</span> 
 **Qiaoyue Tang**, Mathias Lécuyer  
 [Paper](https://openreview.net/attachment?id=coLtCLTHFbW&name=pdf)
 - Propose a layer-freezing variant of DP-SGD that improves utility at fixed privacy budget, supported by both theoretical analysis and empirical evaluation.
