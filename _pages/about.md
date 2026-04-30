@@ -12,20 +12,21 @@ I am a Computer Science PhD student at the University of British Columbia (UBC) 
 My research focuses on data privacy, including designing efficient privacy-preserving algorithms with provable guarantees, auditing privacy leakage in trained machine learning models, and adapting existing tools to domain-specific problems. I have also worked on broader responsible AI topics, such as mitigating social bias and developing fairer models.
 
 
-#### Selected Projects
+### Selected Projects
 
 See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl=en) profile for a full list.
 
 ---
 
 **Private and Stable Test-time Adaptation with Differential Privacy**
-Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer (*Alphabetical order)
+Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer 
+<sup>\* Alphabetical order</sup> 
 *International Conference on Machine Learning (ICML) 2026*
 [Paper]
 - Improve test-time adaptation (TTA) performance using differentially private training techniques, enabling trained models to adapt to new and distributionally shifted test data with reduced error while preserving privacy guarantees.
 - Evaluate on pretrained ViT and ConvNeXT models using ImageNet-C and ImageNet-R corruption benchmarks.
 
-<div style="margin-bottom: 0.6em;"></div>
+<div style="margin-bottom: 0.8em;"></div>
 
 **FairNVT: Improving Fairness via Noise Injection in Vision Transformers**  
 **Qiaoyue Tang**, Sepidehsadat Hosseini, Mengyao Zhai, Thibaut Durand, Greg Mori  
@@ -35,7 +36,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer (*Alphabetical
 - Develop a unified framework that improves both prediction- and representation-level fairness when fine-tuning biased pretrained models for downstream tasks.
 - Show consistent fairness gains across vision and language benchmarks while preserving downstream accuracy.
 
-<div style="margin-bottom: 0.6em;"></div>
+<div style="margin-bottom: 0.8em;"></div>
 
 **On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**  
 **Qiaoyue Tang**, Alain Zhiyanov, and Mathias Lécuyer  
@@ -43,7 +44,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer (*Alphabetical
 [Paper](https://arxiv.org/abs/2507.10536)
 - Investigate the behavior of differentially private optimizers under heavy-tail class imbalance, a setting common in real-world data such as language modeling.
 
-<div style="margin-bottom: 0.6em;"></div>
+<div style="margin-bottom: 0.8em;"></div>
 
 **PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining**  
 Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, Sébastien Gambs, Mathias Lécuyer  
@@ -53,11 +54,11 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 - Develop a retraining-free privacy auditing framework that uses synthetic non-member data to evaluate membership inference attacks on target models.
 - Perform theoretical analysis that establishes rigorous guidelines for privacy auditing under the proposed framework.
 
-<div style="margin-bottom: 0.6em;"></div>
+<div style="margin-bottom: 0.8em;"></div>
 
 **DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**  
 **Qiaoyue Tang**, Frederick Shpilevskiy, Mathias Lécuyer  
-*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red">**(Oral, 2.3% acceptance rate)**</span>  
+*AAAI Conference on Artificial Intelligence (AAAI) 2024* <span style="color:red">**(Oral, 2.3%)**</span>  
 <span style="font-size:0.85em; color:gray">Also presented at Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models @ ICLR 2023</span>  
 [Paper](https://arxiv.org/abs/2312.14334) / [Code](https://github.com/ubc-systopia/DP-AdamBC) / [Slides](/files/DP_AdamBC_AAAI_24_slides.pdf)
 - Demonstrate that DP noise biases Adam's second moment estimator, collapsing DP-Adam into DP-SGD with momentum and breaking the sign-descent behavior that drives Adam's performance.
