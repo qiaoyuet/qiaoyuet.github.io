@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content p, .page__content li {
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+</style>
+
 I am a Computer Science PhD student at the University of British Columbia (UBC) [Systopia Lab](https://systopia.cs.ubc.ca/people) supervised by [Mathias Lécuyer](https://mathias.lecuyer.me/). I received my MSc. and B.S. in Statistics at UBC, where I was advised by [Aline Talhouk](https://talhouklab.med.ubc.ca/dr-aline-talhouk/) and [Lang Wu](https://www.stat.ubc.ca/~lang/). In summer 2025, I worked with [Sepid Hosseini](https://sepidsh.github.io/), [Mengyao Zhai](https://mzhai.weebly.com/) and [Thibaut Durand](https://github.com/durandtibo) at [RBC Borealis](https://rbcborealis.com/).
 
 My research focuses on data privacy in machine learning, including (1) designing efficient privacy-preserving algorithms with provable guarantees, (2) auditing privacy leakage in trained machine learning models, and (3) adapting existing tools to
