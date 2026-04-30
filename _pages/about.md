@@ -67,3 +67,5 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 
 **DP-SGD-LF: Improving Utility under Differentially Private Learning via Layer Freezing**  
 **Qiaoyue Tang**, Mathias Lécuyer  
+[Paper](https://openreview.net/attachment?id=coLtCLTHFbW&name=pdf)
+- Propose a layer-freezing variant of DP-SGD that improves utility at fixed privacy budget, supported by both theoretical analysis and empirical evaluation.
