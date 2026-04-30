@@ -21,7 +21,7 @@ domain-specific problems. I have also worked on broader responsible AI topics, s
 and developing fairer models.
 
 
-# Selected Projects
+## Selected Projects
 
 See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl=en) profile for a full list.
 
@@ -34,7 +34,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alpha
 - Improve test-time adaptation (TTA) performance using differentially private training techniques, enabling trained models to adapt to new and distributionally shifted test data with reduced error while preserving privacy guarantees.
 - Evaluate on pretrained ViT and ConvNeXT models using ImageNet-C and ImageNet-R corruption benchmarks.
 
-<div style="margin-bottom: 0.8em;"></div>
+<div style="margin-bottom: 1em;"></div>
 
 <span style="color:#52adc8">**FairNVT: Improving Fairness via Noise Injection in Vision Transformers**</span>   
 **Qiaoyue Tang**, Sepidehsadat Hosseini, Mengyao Zhai, Thibaut Durand, Greg Mori  
@@ -44,7 +44,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alpha
 - Develop a unified framework that improves both prediction- and representation-level fairness when fine-tuning biased pretrained models for downstream tasks.
 - Show consistent fairness gains across vision and language benchmarks while preserving downstream accuracy.
 
-<div style="margin-bottom: 0.8em;"></div>
+<div style="margin-bottom: 1em;"></div>
 
 <span style="color:#52adc8">**On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**</span>   
 **Qiaoyue Tang**, Alain Zhiyanov, and Mathias Lécuyer  
@@ -52,7 +52,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alpha
 [Paper](https://arxiv.org/abs/2507.10536)
 - Investigate the behavior of differentially private optimizers under heavy-tail class imbalance, a setting common in real-world data such as language modeling.
 
-<div style="margin-bottom: 0.8em;"></div>
+<div style="margin-bottom: 1em;"></div>
 
 <span style="color:#52adc8">**PANORAMIA: Privacy Auditing of Machine Learning Models without Retraining**</span>   
 Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Mauricio Soroco, Tao Wang, Sébastien Gambs, Mathias Lécuyer <sup>(\* equal contribution)</sup>  
@@ -61,7 +61,7 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 - Develop a retraining-free privacy auditing framework that uses synthetic non-member data to evaluate membership inference attacks on target models.
 - Perform theoretical analysis that establishes rigorous guidelines for privacy auditing under the proposed framework.
 
-<div style="margin-bottom: 0.8em;"></div>
+<div style="margin-bottom: 1em;"></div>
 
 <span style="color:#52adc8">**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**</span>  
 **Qiaoyue Tang**, Frederick Shpilevskiy, Mathias Lécuyer  
@@ -71,7 +71,7 @@ Mishaal Kazmi\*, Hadrien Lautraite\*, Alireza Akbari\*, **Qiaoyue Tang\***, Maur
 - Demonstrate that DP noise biases Adam's second moment estimator, collapsing DP-Adam into DP-SGD with momentum and breaking the sign-descent behavior that drives Adam's performance.
 - Propose DP-AdamBC, a bias-corrected variant of DP-Adam, with accompanying theoretical analysis.
 
-<div style="margin-bottom: 0.8em;"></div>
+<div style="margin-bottom: 1em;"></div>
 
 <span style="color:#52adc8">**DP-SGD-LF: Improving Utility under Differentially Private Learning via Layer Freezing**</span>  
 **Qiaoyue Tang**, Mathias Lécuyer  
