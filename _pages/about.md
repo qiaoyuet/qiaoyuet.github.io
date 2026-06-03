@@ -28,7 +28,7 @@ See my [Google Scholar](https://scholar.google.ca/citations?user=qr_qHm4AAAAJ&hl
 <span style="color:#52adc8">**Private and Stable Test-time Adaptation with Differential Privacy**</span>  
 Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alphabetical order)</sup>  
 *International Conference on Machine Learning (ICML) 2026*  
-[Paper]
+[Paper](https://arxiv.org/abs/2606.01908)
 - Improve test-time adaptation (TTA) performance using differentially private training techniques, enabling trained models to adapt to new and distributionally shifted test data with reduced error while preserving privacy guarantees.
 - Evaluate on pretrained ViT and ConvNeXT models using ImageNet-C and ImageNet-R corruption benchmarks.
 
