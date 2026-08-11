@@ -36,8 +36,7 @@ Zefeng Li\*, **Qiaoyue Tang\***, Mathias Lécuyer, Evan Shelhamer <sup>(\* alpha
 
 <span style="color:#52adc8">**FairNVT: Improving Fairness via Noise Injection in Vision Transformers**</span>   
 **Qiaoyue Tang**, Sepidehsadat Hosseini, Mengyao Zhai, Thibaut Durand, Greg Mori  
-*Full version in submission*  
-*Algorithmic Fairness Across Alignment Procedures and Agentic Systems (AFAA) Workshop @ ICLR 2026*  
+*Transactions on Machine Learning Research (TMLR) 2026*  
 [Paper](https://arxiv.org/abs/2604.16780)
 - Develop a unified framework that improves both prediction- and representation-level fairness when fine-tuning biased pretrained models for downstream tasks.
 - Show consistent fairness gains across vision and language benchmarks while preserving downstream accuracy.
