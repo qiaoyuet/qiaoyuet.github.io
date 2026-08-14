@@ -11,4 +11,4 @@ author_profile: true
   window.location.replace("/files/CV_tangqiaoyue_academic_2604.pdf");
 </script>
 
-Redirecting to CV... If you are not redirected, [click here](/files/CV_tangqiaoyue_academic_2604.pdf).
+Redirecting to CV... If you are not redirected, [click here](/files/CV_tangqiaoyue_academic.pdf).
